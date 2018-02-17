@@ -1,0 +1,25 @@
+body{
+	background-color: #D1F9FA;
+}
+
+#ani{
+	background-image: url(http://gameranx.com/wp-content/uploads/2016/09/Disgaea-2-4K-Wallpaper.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+#ind{
+	background-image: url(https://ugc.kn3.net/i/origin/http://gameranx.com/wp-content/uploads/2016/03/Firewatch-4K-Wallpaper-1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+#pel{
+	background-image: url(../img/pel.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+.mensaje{
+	background-color: rgba(255,255,255,0.7);
+}								
