@@ -3,9 +3,9 @@ body{
 }
 
 #ani{
-	background-image: url(http://gameranx.com/wp-content/uploads/2016/09/Disgaea-2-4K-Wallpaper.jpg);
+	background-image: url(../img/ani.png);
 	background-size: cover;
-	background-position: center;
+	
 	background-attachment: fixed;
 }
 #ind{
@@ -14,12 +14,15 @@ body{
 	background-attachment: fixed;
 }
 #pel{
-	background-image: url(../img/pel.jpg);
-	background-position: center;
+	background-image: url(../img/pel.png);
+	
 	background-size: cover;
 	background-attachment: fixed;
-	
 }
-.mensaje{
-	background-color: rgba(255,255,255,0.7);
-}								
+#ser{
+	background-image: url(../img/2.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+								
+
